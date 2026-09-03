@@ -1,5 +1,13 @@
 # Changelog
 
+## [4.31.7](https://github.com/mvanhorn/cli-printing-press/compare/v4.31.6...v4.31.7) (2026-09-03)
+
+
+### Bug Fixes
+
+* **cli:** reprint from current novel_features, not the last built set ([#4521](https://github.com/mvanhorn/cli-printing-press/issues/4521)) ([32d0c5a](https://github.com/mvanhorn/cli-printing-press/commit/32d0c5acc12f3a2dcfbf5abc5149f8d2e3f00022)), closes [#3532](https://github.com/mvanhorn/cli-printing-press/issues/3532)
+* **cli:** run clientHooks on generated MCP clients ([#4523](https://github.com/mvanhorn/cli-printing-press/issues/4523)) ([eaf73df](https://github.com/mvanhorn/cli-printing-press/commit/eaf73dfd6b6a9bf3d5851c2655bd8bb722fa2747))
+
 ## [4.31.6](https://github.com/mvanhorn/cli-printing-press/compare/v4.31.5...v4.31.6) (2026-09-02)
 
 
